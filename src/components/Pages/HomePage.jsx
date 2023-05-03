@@ -6,6 +6,7 @@ import ServicesPage from "../HomePage/ServicesPage";
 import TowardFuture from "../HomePage/TowardFuture";
 import TechOfFuture from "../HomePage/TechOfFuture";
 import ServicesInclude from "../HomePage/ServicesInclude";
+import SendIdea from "../HomePage/SendIdea";
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
       <TowardFuture />
       <TechOfFuture />
       <ServicesInclude />
+      <SendIdea />
     </div>
   );
 }

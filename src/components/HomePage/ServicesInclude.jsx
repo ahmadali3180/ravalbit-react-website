@@ -72,7 +72,7 @@ export default function ServicesInclude() {
           </div>
         </div>
         <img
-          className="our_services_include_main_cnt_img_appdev"
+          className="our_services_include_main_cnt_img"
           src="./images/8867378.png"
           alt=""
         />
