@@ -9,6 +9,19 @@
   height: 100vh;
 }
 
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-75%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
+
+.sldieInLeft {
+  animation: slideInLeft 1.3s ease-in 1 normal;
+}
+
 .landing_page_main_back_image_div_cnt_h1 {
   font-family: "Lato";
   font-style: normal;
