@@ -7,6 +7,8 @@ import TowardFuture from "../HomePage/TowardFuture";
 import TechOfFuture from "../HomePage/TechOfFuture";
 import ServicesInclude from "../HomePage/ServicesInclude";
 import SendIdea from "../HomePage/SendIdea";
+import ClientsReviews from "../HomePage/ClientReviews";
+import HomePageFooter from "../HomePage/HomePageFooter";
 
 export default function HomePage() {
   return (
@@ -18,6 +20,8 @@ export default function HomePage() {
       <TechOfFuture />
       <ServicesInclude />
       <SendIdea />
+      <ClientsReviews />
+      <HomePageFooter />
     </div>
   );
 }
