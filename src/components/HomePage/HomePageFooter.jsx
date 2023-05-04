@@ -2,7 +2,7 @@ import React from "react";
 
 export default function HomePageFooter() {
   return (
-    <div className="res-1440-0 homePage_footer_main_cnt_1">
+    <div id="footer" className="res-1440-0 homePage_footer_main_cnt_1">
       <div className="homePage_footer_main_cnt_2">
         <div className="homePage_footer_main_cnt_content_div">
           <CompanyCopyright

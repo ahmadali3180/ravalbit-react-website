@@ -2,7 +2,10 @@ import React from "react";
 
 export default function AboutRavalbit() {
   return (
-    <div className="res-1440-40 about_ravalbit_div_flex_main_cnt">
+    <div
+      id="aboutRavalbit"
+      className="res-1440-40 about_ravalbit_div_flex_main_cnt"
+    >
       <div className="about_ravalbit_div_flex_main_cnt_heading_para">
         <h1 className="about_ravalbit_div_flex_main_cnt_heading_para_heading">
           What is

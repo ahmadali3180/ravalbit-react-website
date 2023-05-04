@@ -2,7 +2,7 @@ import React from "react";
 
 export default function SendIdea() {
   return (
-    <div className="ask_for_quotation_super">
+    <div id="sendIdea" className="ask_for_quotation_super">
       <div className="ask_for_quotation_main_cnt">
         <div className="ask_for_quotation_main_cnt_h3_div">
           <h3 className="ask_for_quotation_main_cnt_h3">

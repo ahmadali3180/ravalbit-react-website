@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ClientsReviews() {
   return (
-    <div className="res-1440 client_review_main_cnt">
+    <div id="reviews" className="res-1440 client_review_main_cnt">
       <h1 className="client_review_main_cnt_h1">Client Reviews</h1>
       <div className="client_review_main_cnt_service_main_div">
         <ReviewBox
